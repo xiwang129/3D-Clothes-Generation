@@ -1,5 +1,7 @@
 # 3D-Clothes-Generation
-![](https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/Screen%20Shot%202022-12-14%20at%202.51.44%20PM.png)
+
+<img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/ground_truth.png" width="450"> <img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/tshirt1.png" width="450">
+
 
 ## Dependency
 1. Python 3.9
