@@ -2,9 +2,13 @@
 
 ## Dependency
 1. Python 3.9
-2. Cuda
-3. Pytorch 
+2. Cuda 11.6
+3. Pytorch 11.3
 
-`conda env create -f environment.yml
-conda activate PointFlow `
+```
+# create conda envirionment
+conda env create -f environment.yml
+conda activate clothes3D
+
+````
 
