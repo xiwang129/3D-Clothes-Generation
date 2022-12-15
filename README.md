@@ -1,6 +1,6 @@
 # 3D-Clothes-Generation
 
-<img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/ground_truth.png" width="450"> <img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/tshirt1.png" width="450">
+<img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/ground_truth.png" width="400"> <img src="https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/tshirt1.png" width="400">
 
 
 ## Dependency
