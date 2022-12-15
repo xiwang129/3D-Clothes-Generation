@@ -1,5 +1,5 @@
 # 3D-Clothes-Generation
-Screen Shot 2022-12-14 at 2.51.44 PM.png
+![](https://github.com/xiwang129/3D-Clothes-Generation/blob/main/results/Screen%20Shot%202022-12-14%20at%202.51.44%20PM.png)
 
 ## Dependency
 1. Python 3.9
