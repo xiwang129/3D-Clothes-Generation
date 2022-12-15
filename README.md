@@ -1,7 +1,6 @@
 # 3D-Clothes-Generation
+Screen Shot 2022-12-14 at 2.51.44 PM.png
 
-mitsuba_scene_tshirt.exr
-mitsuba_scene_tshirt2.exr
 ## Dependency
 1. Python 3.9
 2. Cuda 11.6
