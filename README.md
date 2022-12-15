@@ -10,6 +10,7 @@
 
 ```
 # create conda envirionment
+
 conda env create -f environment.yml
 conda activate clothes3D
 
